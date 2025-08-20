@@ -1,0 +1,31 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos temporários do PHP
+*.log
+*.cache
+*.tmp
+*.swp
+*.bak
+
+# Composer (se usar no futuro)
+vendor/
+composer.lock
+
+# Ambiente local (XAMPP, uploads, etc)
+htdocs/
+!meu_site/
+
+# Arquivos de banco de dados exportados
+*.sql
+*.sql.gz
+
+# Sistema operacional
+ehthumbs.db
+desktop.ini
