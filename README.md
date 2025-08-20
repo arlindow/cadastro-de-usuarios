@@ -16,21 +16,6 @@ Criar uma aplicação simples em **PHP** com **MySQL**, utilizando o **XAMPP**, 
 * **HTML5** (estrutura do formulário)
 * **XAMPP** (servidor local com Apache + MySQL + PHP)
 
----
-
-## 📂 Estrutura de Pastas
-
-Dentro da pasta `htdocs` do XAMPP (`C:\xampp\htdocs`), foi criada a pasta `meu_site` com os seguintes arquivos:
-
-```
-meu_site/
-│
-├── conexao.php   # Arquivo de conexão com o banco de dados
-├── index.php     # Formulário de cadastro
-└── listar.php    # Listagem dos usuários cadastrados
-```
-
-
 
 ## 📌 Melhorias Futuras
 
